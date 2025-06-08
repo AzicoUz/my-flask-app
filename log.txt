@@ -1,4 +1,0 @@
-2025-06-08 08:36:29.861295 - IP: 127.0.0.1, UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36, Username: azico1221, Password: test2@#e
-2025-06-08 08:37:48.974778 - IP: 127.0.0.1, UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36, Username: azico1221, Password: test2@#e
-2025-06-08 08:41:25.421087 - IP: 127.0.0.1, UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36, Username: azico1221, Password: a
-2025-06-08 08:42:00.260570 - IP: 127.0.0.1, UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36, Username: azico1221, Password: a
